@@ -62,7 +62,7 @@ export default {
     cursor: pointer;
 
     &.is-active {
-      color: #42b983;
+      color: $color;
     }
   }
 }

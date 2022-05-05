@@ -58,7 +58,7 @@ export default {
 
     &:hover,
     &:active {
-      color: #42b983;
+      color: $color;
       transform: scale(1.2);
     }
   }

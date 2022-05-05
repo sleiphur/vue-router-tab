@@ -69,7 +69,7 @@ export default {
       text-decoration: none;
 
       &:hover {
-        color: #42b983;
+        color: $color;
       }
     }
   }

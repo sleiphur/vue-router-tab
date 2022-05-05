@@ -56,11 +56,11 @@ $border: 1px solid #ddd;
       border-bottom: $border;
 
       &:hover {
-        color: #42b983;
+        color: $color;
       }
 
       &.router-link-active {
-        color: #42b983;
+        color: $color;
         background-color: #f7f7f7;
       }
     }
