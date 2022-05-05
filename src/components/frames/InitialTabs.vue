@@ -34,7 +34,12 @@ export default {
         // Iframe 页签
         `/initial-tabs/iframe/${encodeURIComponent(
           'https://cn.vuejs.org'
-        )}/Vue.js/rt-icon-web`
+        )}/Vue.js/rt-icon-web`,
+
+        // part Iframe 页签
+        {
+          to: `/initial-tabs/part-iframe/PagePartIframe/测试一个包含iframe的页面/rt-icon-web`
+        }
       ]
     }
   }

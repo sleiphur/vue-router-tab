@@ -24,3 +24,5 @@ node_modules
 # 发布输出目录
 dist/docs
 dist/lib/**.html
+/.npmrc
+/dist/

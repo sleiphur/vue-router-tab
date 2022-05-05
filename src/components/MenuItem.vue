@@ -38,7 +38,7 @@ $fs: 0.875rem;
 
   &.router-link-active,
   &:hover {
-    color: $color;
+    color: #42b983;
   }
 
   &.router-link-active {

@@ -114,7 +114,7 @@ export default {
 
 <style lang="scss" scoped>
 .rule-fn {
-  color: $color;
+  color: #42b983;
   font-size: 1rem;
   font-style: italic;
 }
